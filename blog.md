@@ -22,11 +22,5 @@ https://github.com/user-attachments/assets/0dfbec0b-1bde-4b63-9378-0386e8d2c68b
 
 
 
-https://github.com/user-attachments/assets/6fb84e04-5097-4289-bac2-5a447f87732c
-<p align="center">
-  <video controls width="800">
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/45e86dc6-412c-4991-a0da-de9c6e8a5386
 
