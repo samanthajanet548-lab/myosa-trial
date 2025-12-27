@@ -3,7 +3,7 @@
 ## Feature: Calibration Demo
 
 <p align="center">
-  <img src="/cover.jpg" width="800"><br/>
+  <img src="/cover.png" width="800"><br/>
   <i>Cover image showing posture setup</i>
 </p>
 
